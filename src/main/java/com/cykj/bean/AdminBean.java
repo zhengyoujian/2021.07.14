@@ -13,10 +13,6 @@ public class AdminBean {
     private String password;
     private String positionId;
 
-    //测试
-    private String see;
-
-
     public long getAdminId() {
         return adminId;
     }
